@@ -16,4 +16,10 @@
     - Cantidad de albums diferentes (puede haber albums que aparezcan dos veces en la lista)
     - Cantidad de artistas diferentes
 6. Creación de tablas dinámicas
-    -
+    -Creación de la TD a partir de los datos.
+    - Selección de campos.
+    -Nombrar cada una de las tablas dinámicas
+    -Creación y personlización de gráficos dinámicos.
+7. Análisis de estadisticos principales de la popularidad de las canciones
+8. Creación Dashboard
+9.Informe explicativo del análisis (FALTA)
