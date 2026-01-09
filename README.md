@@ -38,4 +38,4 @@ La descarga de la BBDD se ha hecho desde el sitio web https://www.kaggle.com/ y 
 
 - Sería necesario una amplizacion de canciones a lo largo de los último años para determinar un análisis mucho más exhaustivo.
 
-- Implementar información sobre los seguidores, para conocer su edad, origen etc... 
+- Implementar información sobre los seguidores, para conocer su edad, origen etc... y así conocer muchas más información sobre clientes.
