@@ -32,7 +32,7 @@ La descarga de la BBDD se ha hecho desde el sitio web https://www.kaggle.com/ y 
 
 - A partir del año 2010 podemos ver un eumento de nuevas canciones, lo que indica que el mercado cada vez se está ampliando más, apareciendo más nuevas canciones y artistas
 
-![21](Logo/Num_Canciones)
+![21](Logo/Num_Canciones.png)
 
 ## 5. 🏃‍♂️Próximos pasos
 
